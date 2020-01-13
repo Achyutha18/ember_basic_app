@@ -1,7 +1,6 @@
-# ember-quickstart
+# ember-basic-app
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This repository contains a basic web application built using ember to allow people who are new to ember to get quick started with ember.js framework.
 
 ## Prerequisites
 
@@ -43,9 +42,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
 
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
